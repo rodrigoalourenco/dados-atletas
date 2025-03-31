@@ -94,7 +94,7 @@ https://github.com/nomedeusuario/dados-atletas
   "name": "dados-atletas",
   "version": "1.0.0",
   "scripts": {
-    "start": "node notas-atletas.js"
+    "start": "node dados-atletas.js"
   }
 }
 ```
