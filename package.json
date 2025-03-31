@@ -1,0 +1,20 @@
+{
+  "name": "dados-atletas",
+  "version": "1.0.0",
+  "description": "Projeto de certificação 2 - Dados dos atletas DEVstart",
+  "main": "dados-atletas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dados-atletas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoalourenco/notas-atletas.git"
+  },
+  "author": "Rodrigo Lourenço",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoalourenco/notas-atletas/issues"
+  },
+  "homepage": "https://github.com/rodrigoalourenco/notas-atletas#readme"
+}
